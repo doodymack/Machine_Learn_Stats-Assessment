@@ -25,7 +25,7 @@ How to Run (paste from below)
 Paste in from below and edit
 
 
-## References
+## Referencesjupyter note
 
 add in references demonstrating online learning such as: <br>
 
@@ -44,8 +44,8 @@ add in references demonstrating online learning such as: <br>
 <br>
 
 This repository contains jupyter notebooks and other relevant files used to demonstrate my work on:
-- ``Matplotlib``
-- ``PANDAS``
+- ``Machine Learning``
+- ``Statistics``
 <br>
 
  for my module: 
@@ -62,7 +62,7 @@ Steps to install
 
 The work is based on **Python 3** code and executed via a **Jupyter Notebook** <br>
 Jupyter allows the creation of a Notebook that contains summary text and image files while also allowing the running of of Python code. <br><br>
-The key files to run in the repository are:  **Pyplot.ipynb** and **CAO_points.ipynb**. <br>
+The key files to run in the repository are:  **Pyplot.ipynb** and **XXXXX**. <br>
 To execute the work you should have **Python 3**  and  **Jupyter** notebooks installed. <br><br>
 
 
@@ -123,7 +123,7 @@ Troubleshooting:
 ## Explore 
 
 
-Have a look at the two notebooks in this repository in Jupyter
+Have a look at the **three?** notebooks in this repository in Jupyter
 
 Some interesting aspects:
 The Notebook `plots.ipynb` has three different plot types as examples. You can edit the parameters of the plots to see different effects.
@@ -131,9 +131,7 @@ e.g.
 - in the 'beginning with matplotlib' the  x and y values can be changed to determin their impact Change the parameters and rerun the cell code (from run dropdown menu)
 - For the visualizations of the iris dataset using matplotlib histograms the # of bins can be changed  from 10 to e.g. 20 i.e.: <br>
 
-**plt.hist(df3['sepal_length'], bins=10, label ='setosa')
-plt.hist(df4['sepal_length'], bins=10, label = 'versicolor')
-plt.hist(df5['sepal_length'], bins=10, label = 'virginica')**
+**xxxxx**
 
 to determine the impact the parameter in  representation of the data.
 
@@ -197,21 +195,11 @@ Objective:
 
 Using a Jupyter lab notebook to explain the use of the NumPy package including details of at least 5 5 of the distributions provided f or in the NumPy package.  The following are covered:
 
-1. Explain the overall purpose of the package.
-2. Explain the use of the “Simple random data” and “Permutations” functions.
-3. Explain the use and purpose of at least five “Distributions” functions.
-4. Explain the use of seeds in generating pseudorandom numbers
-
-How to use Numpy_Random_Assessment Notebook:
-
-1. The notebook should be opened as an executable notebook
-2. The notebook contains a mixture of Markdown explanation text followed by executable python code text
-3. Should not all cells execute, the kernel shouul be re-run (run all) from the start- optional to clear all outputs
-4. Most python code cells contain additional explanatory comments to assist understanding the code
-5. Some markdown cells conmtain hyperlinks to additional background information from the web
-6. References used are included in the notebook. Additional copy only
-7. The first sections of the notebook contain a high level summary of the Numpy package including arrays
-8. In the event that the reader is already familiar with these topics, these sections can be skipped
-
+1. Explain the overall 
+2. Describe
+3. Explain 
 
 references:
+https://www.tensorflow.org/guide
+https://www.tensorflow.org/resources/learn-ml?gclid=Cj0KCQiAsoycBhC6ARIsAPPbeLsFBtcANYp7SyiaiNTmQpVvJUL3ie1M3o_RvAcENzzBD-GEXHa0kBYaAlSEEALw_wcB
+https://towardsdatascience.com/all-the-numpy-you-need-to-supercharge-your-deep-learning-code-e7a22fe4ede2
