@@ -34,11 +34,16 @@ Steps to install
 The work is based on **Python 3** code and executed via a **Jupyter Notebook** <br>
 Jupyter allows the creation of a Notebook that contains summary text and image files while also allowing the running of of Python code. <br><br>
 The key files to run in the repository are:  
+
 Exercises Folder:  
 **01-statistics_exercises 1&2.ipynb**  
-**01-statistics_exercises 3.ipynb**  
-**02-02-Models_exercises.ipynb**   
-**01-statistics_exercises 3.ipynb**  
+**01-statistics_exercise_3.ipynb**  
+**02-models_exercises.ipynb**   
+**03-parameters_exercises.ipynb**  
+
+TimeSeriesAnomalyDetection-Keras Folder:  
+**05-Time_Series_Anomaly_Detection.ipynb** 
+
 
 
 To execute the work you should have **Python 3**  and  **Jupyter** notebooks installed. <br><br>
