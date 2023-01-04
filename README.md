@@ -7,11 +7,52 @@
 by Paul Mc Grath
 
 
-Add in detasils here about the repository
+Add in details here about the repository
+
+The repository contains three folders:
+- images
+- Exercises
+- Time Series Anomaly Detection
+
+Images Folder:
+- contains any images used in the Notebooks
+
+Exercises Folder:
+- contains the completed course topic exercises in notebook form
+
+Time Series Anomaly Detection Folder:
+- contains the Notebook containing the Keras Assignment (Time Series Anomaly Detection)
+
+<br>
 
 ## Setup
 
-How to Install Jupyter (paste from below)
+Steps to install
+---
+<br>
+
+The work is based on **Python 3** code and executed via a **Jupyter Notebook** <br>
+Jupyter allows the creation of a Notebook that contains summary text and image files while also allowing the running of of Python code. <br><br>
+The key files to run in the repository are:  
+Exercises Folder:  
+**01-statistics_exercises 1&2.ipynb**  
+**01-statistics_exercises 3.ipynb**  
+**02-02-Models_exercises.ipynb**   
+**01-statistics_exercises 3.ipynb**  
+
+
+To execute the work you should have **Python 3**  and  **Jupyter** notebooks installed. <br><br>
+
+
+### How to install the necessary packages:
+While Jupyter runs code in many programming languages, Python is a requirement (Python 3.3 or greater, or Python 2.7) for installing the Jupyter Notebook.  
+It is recommended to use the Anaconda distribution to install **Python** and 
+**Jupyter**. <br>
+Anaconda conveniently installs Python, the Jupyter Notebook, and other commonly used packages for scientific computing and data science.
+
+***Note the packages and dependencies are in my 'requirements.txt' file*** <br> <br>
+
+### Installation instructions:
 
 
 ## Running the Notebooks
